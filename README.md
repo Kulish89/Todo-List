@@ -1,2 +1,2 @@
 # Todo-List
-https://gitname.github.io/react-gh-pages/
+https://kulish89.github.io/Todo-List/
